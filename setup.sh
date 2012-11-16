@@ -391,6 +391,7 @@ user:postfix
 user:dovecot
 user:dovenull
 user:haldaemon
+user:smmsp
 EOF
 
 		cat >>/etc/csf/csf.ignore<<EOF
